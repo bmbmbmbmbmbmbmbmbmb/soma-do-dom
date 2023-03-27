@@ -1,0 +1,20 @@
+body{
+
+    background-color: burlywood;
+    margin: 15px;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+
+}
+
+.soma{
+
+    display: flex;
+    justify-content: center;
+    flex-direction:column ;
+    width: 400px;
+    margin: 400px;
+}
